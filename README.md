@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HIRWA13
+- 👋 Hi, I’m @HIRWA Jr
 - 👀 I’m interested in Sotfware engineering
 - 🌱 I’m currently learning through ALX SE Programe
 - 💞️ I’m looking to collaborate on programming related activities tho am a beginner
