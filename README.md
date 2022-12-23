@@ -7,13 +7,6 @@
 - ⚡ How I have Fun: I love to sing and play piano
 - 😻 Other things I do aside of being a programmer, I offer handyman services in kigali
 
-### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/hirwa-jr-505367244/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hirwa-jr-505367244/#gh-dark-mode-only)
-
-[![website](./img/instagram-light.svg)](https://instagram.com/its.hirwa#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/its.hirwa#gh-dark-mode-only)
-
 ## ✉️ Find me on:
 
 
@@ -26,3 +19,7 @@
 <br />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=HIRWA13.HIRWA13)
+[![Github](https://img.shields.io/github/followers/HIRWA13?label=Follow&style=social)](https://github.com/HIRWA13)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HIRWA13&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIRWA13&theme=tokyonight)
