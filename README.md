@@ -1,7 +1,7 @@
 # Hi there, I'm HIRWA - aka Junia  👋
 
 ## I'm a Son, Student, Programer, and Future Software Developer!!
-- 🌱 I’m currently learning software engineering with ALX-Holberton SE programe 🤣
+- 🌱 I’m currently learning software engineering with ALX-Holberton SE programe
 - 👯 I’m looking to collaborate with other programers and developers
 - 🥅 2023 Goals: Learn almost the basics of software engineering
 - ⚡ How I have Fun: I love to sing and play piano
