@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other programers and developers
 - 🥅 2023 Goals: Learn almost the basics of software engineering
 - ⚡ How I have Fun: I love to sing and play piano
-- 😻 Other things I do aside of being a programmer, I offer handyman services in kigali
+- 😻 Other things I do aside of being a programmer, I play Basketball
 
 ## ✉️ Reach me on:
 
