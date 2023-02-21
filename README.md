@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Junior Hirwa aka (Bunnie)</h1>
-<h3 align="center">A Software Engineer from The Land of Thousand Hills (Rwanda)</h3>
+<h3 align="center">A SOFTWARE ENGINEER FROM THE LAND OF A THOUSAND HILLS (RWANDA)</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>The Simple Shell project</b></p>
-      <p>- 🌱 I’m currently learning <b>C, HTMLS and CSS</b></p>
-      <p>- 📫 How to reach me: <b><a href=mailto:iamhirwe@gmail.com alt=email>iamhirwejr@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b> Like to sing and dance but you guessed it "When no one is watching</b></p>
+      <p>- 🔭Currently working on <b>The Simple Shell project</b></p>
+      <p>- 🌱Currently learning <b>C, HTMLS and CSS</b></p>
+      <p>- 📫Reach me at: <b><a href=mailto:iamhirwe@gmail.com alt=email>iamhirwejr@gmail.com</a></b></p>
+      <p>- ⚡ Fun fac about me: <b> I Like to sing and dance but you guessed it "When no one is watching"</b></p>
     </td>
     <td>
       <h3 align="left">Engage with me:</h3>
