@@ -29,7 +29,8 @@
     </td>
   </tr>
 </table>
-## Hub Stats:
+
+## Hub Stats
 
 <table>
   <tr>
@@ -45,7 +46,6 @@
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HIRWA13&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=HIRWA13&label=Profile%20views&color=0e75b6&style=flat" alt="HIRWA" /> </p>
 
