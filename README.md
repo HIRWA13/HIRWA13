@@ -5,7 +5,7 @@
   <tr>
     <td>
       <p>- 🔭Currently working on <b>The Simple Shell project</b></p>
-      <p>- 🌱Currently learning <b>C, HTMLS and CSS</b></p>
+      <p>- 🌱Currently learning <b>C, HTML and CSS</b></p>
       <p>- 📫Reach me at: <b><a href=mailto:iamhirwe@gmail.com alt=email>iamhirwejr@gmail.com</a></b></p>
       <p>- ⚡ Fun fac about me: <b> I Like to sing and dance but you guessed it "When no one is watching"</b></p>
     </td>
