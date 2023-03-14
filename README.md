@@ -5,7 +5,7 @@
   <tr>
     <td>
       <p>- 🔭Currently working on <b>The Simple Shell project</b></p>
-      <p>- 🌱Currently learning <b>C, HTML and CSS</b></p>
+      <p>- 🌱Currently learning <b>C, HTML,CSS and Python</b></p>
       <p>- 📫Reach me at: <b><a href=mailto:iamhirwe@gmail.com alt=email>iamhirwejr@gmail.com</a></b></p>
       <p>- ⚡ Fun fac about me: <b> I Like to sing and dance but you guessed it "When no one is watching"</b></p>
     </td>
@@ -25,7 +25,8 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  
       <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
-      </p>    
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ </p>    
     </td>
   </tr>
 </table>
