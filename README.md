@@ -1,37 +1,46 @@
 <h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Junior Hirwa</h1>
 <h3 align="center">A DEVELOPER FROM THE LAND OF A THOUSAND HILLS (RWANDA)</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
-<table>
-  <tr>
-    <td>
-      <p>- 🌱Currently learning <b>Frontend Web Development </b></p>
-      <p>- 📫Reach me at: <b><a href=mailto:iamhirwe@gmail.com alt=email>iamhirwejr@gmail.com</a></b></p>
-      <p>- ⚡ Fun fac about me: <b> I Like to sing and dance but you guessed it "When no one is watching"</b></p>
-    </td>
-    <td>
-      <h3 align="left">Engage with me:</h3>
-      <p align="left">
-      <a href="https://linkedin.com/in/Hirwa Jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hirwa Jr" height="30" width="40" /></a>
-      <a href="https://twitter.com/itshirwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshirwa" height="30" width="40" /></a>
-      <a href="https://fb.com/Hi-rwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HIRWA" height="30" width="40" /></a>
-      <a href="https://instagram.com/its.hirwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.hirwa" height="30" width="40" /></a>
-      </p>
-      <h3 align="left">Languages and Tools:</h3>
-      <p align="left"> 
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  
-      <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- </p>    
-    </td>
-  </tr>
-</table>
 
-## Hub Stats
+### :man_technologist: About Me :
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Rwanda.
+- :telescope: currently am learning Front End Web Development
 
+- :seedling: I like to Explore Technical Stuffs.
+
+- :zap: In my free time, I solve problems on codewars and read tech articles.
+
+### How to Reach me:
+ <div id="badges">
+  <a href="www.linkedin.com/in/hirwajr">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="(https://discord.com/channels/@me)">
+    <img src="https://img.shields.io/badge/discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="www.twitter.com/itshirwa">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="www.instagram.com/its.hirwa">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Istagram Badge"/>
+  </a>
+</div>
+
+### profile: 
+<img src="https://komarev.com/ghpvc/?username=HIRWA13&style=flat-square&color=blue" alt=""/>
+
+### Tech Stachs:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+## Hub Stats:
 <table>
   <tr>
     <td>
@@ -45,9 +54,6 @@
     </td>
   </tr>
 </table>
-
-
-<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=HIRWA13&label=Profile%20views&color=0e75b6&style=flat" alt="HIRWA" /> </p>
 
 
 <!--
