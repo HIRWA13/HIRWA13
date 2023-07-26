@@ -8,7 +8,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: I like to Explore Technical Stuffs.
 
-- :zap: In my free time, I solve problems on codewars and read tech articles.
+- :zap: In my free time, I solve problems on <a href="https://www.codewars.com/users/Junior%20Hirwa">codewars.com</a>
 
 ### How to Reach me:
  <div id="badges">
