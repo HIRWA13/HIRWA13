@@ -10,6 +10,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on <a href="https://www.codewars.com/">codewars.com</a> you can view my completed<a href="https://www.codewars.com/users/Junior%20Hirwa"> codewars kata here</a>
 
+
 ### How to Reach me:
  <div id="badges">
   <a href="www.linkedin.com/in/hirwajr">
@@ -41,6 +42,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
+
+### Me with codewars:
+![codewars](https://www.codewars.com/users/Junior%20Hirwa/badges/large)
 
 ## Hub Stats:
 <table>
