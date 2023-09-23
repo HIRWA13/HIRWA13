@@ -30,7 +30,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### profile: 
 <img src="https://komarev.com/ghpvc/?username=HIRWA13&style=flat-square&color=blue" alt=""/>
 
-### Tech Stachs:
+### My Weapons:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="Gatsby" width="40" height="40"/>&nbsp;
