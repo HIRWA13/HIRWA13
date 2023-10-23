@@ -8,16 +8,13 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: I like to Explore Technical Stuffs.
 
-- :zap: In my free time, I solve problems on <a href="https://www.codewars.com/">codewars.com</a> you can view my completed<a href="https://www.codewars.com/users/Junior%20Hirwa"> codewars kata here</a>
+- :zap: In my free time, I solve problems on <a href="https://www.codewars.com/">codewars.com</a>. view my completed<a href="https://www.codewars.com/users/Junior%20Hirwa"> codewars kata here</a>
 
 
 ### How to Reach me:
  <div id="badges">
   <a href="www.linkedin.com/in/hirwajr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="www.twitter.com/itshirwa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -27,8 +24,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   </a>
 </div>
 
-### profile: 
-<img src="https://komarev.com/ghpvc/?username=HIRWA13&style=flat-square&color=blue" alt=""/>
 
 ### My Weapons:
 <div>
@@ -44,8 +39,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-### Me with codewars:
-![codewars](https://www.codewars.com/users/Junior%20Hirwa/badges/large)
+### Visitors: 
+<img src="https://komarev.com/ghpvc/?username=HIRWA13&style=flat-square&color=blue" alt=""/>
 
 ## Hub Stats:
 <table>
