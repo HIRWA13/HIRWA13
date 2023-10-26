@@ -38,10 +38,22 @@ Name | Badges
 
 <hr>
 
-### Visitors: 
+### 👔 Soft skills
+
+✅ Creativity
+
+✅ Communication skills
+
+✅ Problem-solving
+
+✅ Teamwork
+
+<hr>
+
+## ❤ Visitors: 
 <img src="https://komarev.com/ghpvc/?username=HIRWA13&style=flat-square&color=blue" alt=""/>
 
-## Hub Stats:
+##  Stats:
 <table>
   <tr>
     <td>
