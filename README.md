@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Rwanda.
-- :telescope: currently am learning Front End Web Development
+- :telescope: currently, am learning Back-end Web Development
 
 - :seedling: I like to Explore Technical Stuffs.
 
