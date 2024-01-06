@@ -3,7 +3,7 @@
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
 ### :man_technologist: About Me :
-I am an Entry-Level Software Developer from Rwanda.
+I am a Software Developer from Rwanda.
 - :telescope: currently, am learning Back-end Web Development
 
 - :seedling: I like to Explore Technical Stuffs.
