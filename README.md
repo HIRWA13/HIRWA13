@@ -8,7 +8,7 @@ I am a Software Developer from Rwanda.
 
 - :seedling: I like to Explore Technical Stuffs.
 
-- :zap: In my free time, I solve problems on <a href="https://www.codewars.com/">codewars.com</a>. view my completed<a href="https://www.codewars.com/users/Junior%20Hirwa"> codewars kata here</a>
+- 🎹 I also Play Piano
 
 
 ### How to Reach me:
