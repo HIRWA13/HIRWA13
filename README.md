@@ -8,7 +8,7 @@ I am a Software Developer from Rwanda.
 
 - :seedling: I like to Explore Technical Stuffs.
 
-- 🎹 I also Play Piano
+- 🎹 in my free time, I enjoy playing Piano and listening to music
 
 
 ### How to Reach me:
