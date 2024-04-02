@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer from Rwanda.
-- :telescope: currently, am learning Node Js
+- :telescope: currently, am learning Testing
 
 - :seedling: I like to Explore Technical Stuffs.
 
