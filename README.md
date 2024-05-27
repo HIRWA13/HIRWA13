@@ -4,11 +4,11 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer from Rwanda.
-- :telescope: currently, am learning Testing
+- :telescope: currently, am learning Amazon Web Services
 
 - :seedling: I like to Explore Technical Stuffs.
 
-- 🎹 in my free time, I enjoy playing Piano and listening to music
+- 🎹 in my free time, I enjoy playing Piano/Violin and listening to music
 
 
 ### How to Reach me:
