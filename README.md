@@ -8,21 +8,10 @@ I am a Software Developer from Rwanda.
 
 - :seedling: I like to Explore Technical Stuffs.
 
-- 🎹 in my free time, I enjoy playing Piano/Violin and listening to music
+- 🎹 in my free time, I enjoy playing Piano and listening to classical music
 
 
-### How to Reach me:
- <div id="badges">
-  <a href="https://www.linkedin.com/in/hirwajr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/itshirwa">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-### 🛠 Tech Stack
+### 🛠 My Tech Stack
 
 Name | Tech
 --- | --- 
