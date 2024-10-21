@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer from Rwanda.
-- :telescope: currently, am learning Next JS and Amazon Web Services(AWS)
+- :telescope: currently, am learning Flutter
 
 - :seedling: I like to Explore Technical Stuffs.
 
